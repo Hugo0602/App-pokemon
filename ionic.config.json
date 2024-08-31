@@ -1,7 +1,0 @@
-{
-  "name": "Aplicativo Pokemon",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
